@@ -1,0 +1,1 @@
+insert into Movie(movie_id,title,category,rating) values('1','Title','Category',0.5);

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: MovieApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ruchika
+Implementation-Vendor-Id: MovieApplication
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://spring.io/projects/spring-boot/MovieApplic
+ ation
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
